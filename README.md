@@ -1,3 +1,27 @@
+## Antes de mais nada...
+
+- Deixa a estrelinha no repositório
+- Me segue aqui no github
+
+## Aula desse Projeto no YouTube
+
+Esse projeto foi desenvolvido por Gustavo Web. Se quiser acompanhar as aulas do desenvolvimento, acesse o link abaixo:
+
+[Link para as aulas no YouTube](https://www.youtube.com/watch?v=HumFv2NAQnU&list=PLBRCgwXk28ixXJEKlWaoUuG38rJAod0AP)
+
+## Link para a documentação no Notion
+
+Há um documento no Notion.so que guia o seu passo a passo no desenvolvimento e que pode ser visto nas aulas do desenvolvimento. Para ter acesso, clique no link abaixo:
+
+[Link para a documentação no Notion.so](https://www.notion.so/C-digo-Aberto-Temporada-2-d1af14c147a84f71a923e6f0c8a9e40c)
+
+## Faça bom uso!
+
+Espero que de alguma forma esse conteúdo some para você e para sua carreira e que consiga resolver o problema que você se propôs a resolver.
+
+Compartilhe esse link com seus amigos desenvolvedores.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
